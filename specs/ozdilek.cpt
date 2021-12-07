@@ -1,0 +1,57 @@
+Created by testinium on 6.12.2021
+
+This is a concept file with following syntax for each concept.
+# Uygulamanın çalıştığını kontrol et ve ALIŞVERİŞ'e başla butonuna tıkla
+* "4" Saniye bekle
+* Uygulamanin acildigini kontrol et
+* Alisveris yap butotuna tikla
+* "4" Saniye bekle
+
+# Anasayfa'ya ulaşıldığını kontrol et ve KATEGORİLER sekmesine geç
+* Anasayfaya gelindigini kontrol et
+* "4" Saniye bekle
+* Kategoriler butonuna tikla
+* "4" Saniye bekle
+
+# Kategoriler sayfasına ulaşıldığını kontrol et sonra KADIN sekmesinden PANTOLONU seç
+* Kategoriler sayfasina gelindigini kontrol et
+* "4" Saniye bekle
+* Kadin kategorisine tikla
+* "4" Saniye bekle
+* Pantolon kategorisine tikla
+* "4" Saniye bekle
+
+# İki kere ekranı kaydır ve rastgele bir ürün seç
+* Swipe up the page
+* "3" Saniye bekle
+* Swipe up the page
+* "3" Saniye bekle
+* Rastgele bir pantolon sec
+* "3" Saniye bekle
+
+# Ürün detay sayfasına geçildiğini kontrol et ve ürünü FAVORİLERE ekle
+* Urun sayfasina gelindigini kontrol et
+* "5" Saniye bekle
+* Urunu favorilere ekle
+* "3" Saniye bekle
+
+# Giriş ekranına gidildiğini kontrol ettikten sonra email ve password değerlerini gir
+* Giris yap sayfasinda oldugunu kontrol et
+* E-mail'i yaz
+* "3" Saniye bekle
+* Password yaz
+* "3" Saniye bekle
+
+# Ürünlerin olduğu sayfaya geri dön ve rastgele bir ürün seç
+* Onceki sayfaya don
+* "3" Saniye bekle
+* Onceki sayfaya don
+* "3" Saniye bekle
+* Rastgele bir pantolon sec
+* "3" Saniye bekle
+
+# Ürünün bedenini seç ve sepete ekle
+*Beden sec
+* "3" Saniye bekle
+* Sepete ekle
+* "3" Saniye bekle
